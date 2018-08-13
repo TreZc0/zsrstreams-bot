@@ -1,5 +1,5 @@
-# Simple Twitch Streams Discord Bot
-
+# ZSRStreams Discord Bot
+Based on the Simple Twitch Streams Discord Bot
 A basic discord bot that tracks twitch streams for a specific game, and posts messages to discord when twitch streams go live.
 
 Note: It only tracks one game, and only posts to one discord channel. Edit the code yourself if you want it to do anything more.
